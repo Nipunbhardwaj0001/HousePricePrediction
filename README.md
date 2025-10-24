@@ -19,14 +19,14 @@ This project aims to predict housing prices using machine learning techniques. I
 *   **Data Visualization:**
     *   matplotlib
     *   seaborn
-*   **Machine Learning:** scikit-learn (sklearn) - *Likely used, though not explicitly imported in the provided summary*
+*   **Machine Learning:** scikit-learn (sklearn) 
 *   **Environment:** Jupyter Notebook
 
 📦 **Getting Started**
 
 ### Prerequisites
 
-*   Python 3.x installed
+*   Python 
 *   pip package installer
 
 ### Installation
